@@ -1,0 +1,1107 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+
+/* mobile part */
+/* mobile part */
+/* mobile part */
+
+.maincontainer {
+  height: 2811px;
+  width: 375px;
+  border-radius: 0px;
+  background: rgba(252, 250, 249, 1);
+}
+
+.mobileladywallphoto {
+  height: 240px;
+  width: 375px;
+  border-radius: 0px;
+}
+.modernartgallerytext {
+  height: 110px;
+  width: 343px;
+  display: inline-block;
+  font-family: "Big Shoulders Display";
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 55px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-top: 32px;
+  margin-left: 16px;
+}
+
+.theartsinthecollectiontext {
+  display: inline-block;
+  height: 112px;
+  width: 343px;
+  margin-left: 16px;
+  margin-top: 32px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #444444;
+}
+
+.firstpartboxwithladyphotoandourlocationbox {
+  height: 630px;
+  width: 375px;
+
+  border-radius: 0px;
+}
+.ourlocationbox {
+  display: flex;
+  justify-content: space-around;
+  height: 72px;
+  width: 204px;
+  margin-left: 16px;
+  margin-top: 20px;
+  border-radius: 0px;
+  background: #151515;
+}
+.ourlocationboxtext {
+  display: flex;
+  display: inline-block;
+  height: 24px;
+  width: 150px;
+  font-family: "Big Shoulders Display";
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: 3px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+.ourlocationboxarrowbox {
+  display: flex;
+  height: 72px;
+  width: 56px;
+  margin-left: 220px;
+  margin-top: -72px;
+  border-radius: 0px;
+  background: rgba(213, 150, 108, 1);
+}
+.arrowbutton:link {
+  color: rgba(255, 166, 0, 0.047);
+  font-weight: bold;
+  text-decoration: underline dotted orange wavy;
+}
+.arrowbutton:active {
+  color: orange;
+  font-weight: bold;
+  text-decoration: underline dotted orange wavy;
+}
+
+.arrowbutton {
+  padding: 0;
+  border: none;
+  background: rgba(213, 150, 108, 1);
+}
+
+/* mobile Second part */
+
+.secondpartcontainerwithyourday {
+  height: 1605px;
+  width: 343px;
+  margin-top: 120px;
+  border-radius: 0px;
+}
+
+.secondphoto {
+  height: 320px;
+  width: 343px;
+  /* margin-left: 16px; */
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.yourdayatthegallery {
+  display: inline-block;
+  height: 90px;
+  width: 343px;
+  margin-left: 0px;
+  margin-top: 25px;
+  font-family: "Big Shoulders Display";
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(21, 21, 21, 1);
+}
+
+.wanderthroughtext {
+  display: inline-block;
+  height: 112px;
+  width: 343px;
+  margin-top: 21px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(68, 68, 68, 1);
+}
+
+.thirdphoto {
+  margin-top: 32px;
+
+  height: 480px;
+  width: 343px;
+
+  border-radius: 0px;
+}
+
+.fourthphoto {
+  height: 200px;
+  width: 343px;
+  margin-top: 16px;
+  border-radius: 0px;
+}
+.secondpartlastcontainer {
+  height: 293px;
+  width: 343px;
+
+  margin-top: 16px;
+  border-radius: 0px;
+  background: rgba(21, 21, 21, 1);
+}
+
+.secondpartcontainercomeandbeinspiredtext {
+  display: inline-block;
+  margin-top: 48px;
+  margin-left: 24px;
+  height: 90px;
+  width: 295px;
+  font-family: "Big Shoulders Display";
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: left;
+
+  /* margin-left: 0px;
+  margin-top: 0px; */
+  color: rgba(255, 255, 255, 1);
+}
+.secondpartcontainerweareexcitedtext {
+  display: inline-block;
+  height: 84px;
+  width: 295px;
+  margin-left: 24px;
+  margin-top: 24px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+/* mobilelast part of first page */
+.lastpartoffirstpage {
+  height: 336px;
+  width: 375px;
+
+  margin-top: 120px;
+  border-radius: 0px;
+  background: rgba(21, 21, 21, 1);
+}
+
+.lastpartoffirstpageheadertext {
+  display: inline-block;
+  height: 45px;
+  width: 155px;
+  margin-left: 32px;
+  margin-top: 48px;
+  border-radius: 0px;
+  color: rgba(255, 255, 255, 1);
+  font-family: "Big Shoulders Display";
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: 3px;
+  text-align: left;
+}
+
+.lastpartoffirstpagelasttext {
+  display: inline-block;
+  height: 104px;
+  width: 311px;
+  margin-left: 32px;
+  margin-top: 38px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.facebook {
+  margin-top: 38px;
+  margin-left: 32px;
+}
+.intagram {
+  margin-top: 38px;
+  margin-left: 20px;
+}
+.twitter {
+  margin-top: 38px;
+  margin-left: 20px;
+}
+
+/* Mobile second page  */ /* Mobile second page  */ /* Mobile second page  */ /* Mobile second page  */ /* Mobile second page  */
+.secondpagecontainer {
+  position: relative;
+  height: 1379px;
+  width: 375px;
+
+  background: rgba(252, 250, 249, 1);
+
+  border-radius: 0px;
+}
+
+.map {
+  position: absolute;
+  border-radius: 0px;
+  z-index: 1;
+}
+
+.backtohomearrowcontainer {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  height: 72px;
+  width: 56px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+  background: rgba(213, 150, 108, 1);
+}
+
+.arrow2 {
+  display: flex;
+}
+
+.backtohomeblackbox {
+  position: absolute;
+  z-index: 2;
+  height: 72px;
+  width: 208px;
+  margin-left: 54px;
+  margin-top: 0px;
+
+  /* margin-top: -72px; */
+  border-radius: 0px;
+  background: rgba(21, 21, 21, 1);
+}
+
+.backtohometext {
+  display: inline-block;
+  height: 24px;
+  width: 145px;
+  margin-left: 32px;
+  margin-top: 24px;
+  font-family: "Big Shoulders Display";
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: 3px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.maplocationindicator {
+  position: relative;
+
+  z-index: 2;
+  height: 88px;
+  width: 66px;
+  margin-left: 155px;
+  margin-top: 231px;
+  border-radius: 0px;
+}
+
+/* mobile second page our location black container part */
+.belowmapblackcontainer {
+  height: 493px;
+  width: 375px;
+  margin-left: 0px;
+  margin-top: 227px;
+  border-radius: 0px;
+  background: #151515;
+}
+
+.belowmapblackcontainerourlocationtext {
+  display: inline-block;
+  height: 45px;
+  width: 343px;
+  margin-left: 16px;
+  margin-top: 48px;
+  font-family: "Big Shoulders Display";
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 45px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.belowmapblackcontainerkingsstreettext {
+  display: inline-block;
+  height: 32px;
+  width: 343px;
+  margin-left: 16px;
+  margin-top: 48px;
+  font-family: "Big Shoulders Display";
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #d5966c;
+}
+
+.belowmapblackcontainernewporttext {
+  display: inline-block;
+  height: 84px;
+  width: 343px;
+  margin-left: 16px;
+  margin-top: 20px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+.belowmapblackcontainerlonglasttext {
+  display: inline-block;
+
+  height: 140px;
+  width: 343px;
+  margin-left: 16px;
+  margin-top: 20px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+
+/* mobile second page last part */
+.secondpagelastpartoffirstpage {
+  height: 336px;
+  width: 375px;
+
+  margin-top: 0px;
+  border-radius: 0px;
+  background: #d5966c;
+}
+
+.secondpagelastpartoffirstpageheadertext {
+  display: inline-block;
+  height: 45px;
+  width: 155px;
+  margin-left: 32px;
+  margin-top: 48px;
+  border-radius: 0px;
+
+  font-family: "Big Shoulders Display";
+  font-size: 25px;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: 3px;
+  text-align: left;
+  color: #151515;
+}
+
+.secondpagelastpartoffirstpagelasttext {
+  display: inline-block;
+  height: 104px;
+  width: 311px;
+  margin-left: 32px;
+  margin-top: 38px;
+  font-family: "Outfit";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #151515;
+}
+
+.secondpagefacebook {
+  margin-top: 38px;
+  margin-left: 32px;
+}
+.secondpageinstagram {
+  margin-top: 38px;
+  margin-left: 20px;
+}
+.secondpagetwitter {
+  margin-top: 38px;
+  margin-left: 20px;
+}
+
+/* Tabletsize first part of page */ /* Tabletsize first part of page */ /* Tabletsize first part of page */ /* Tabletsize first part of page */
+@media only screen and (min-width: 768px) {
+  .desktopthirdphoto {
+    display: none;
+  }
+}
+
+/* hide tablet photos in mobile part */
+@media only screen and (max-width: 768px) {
+  .tabletladywallphoto {
+    display: none;
+  }
+  .tabletfourthphoto {
+    display: none;
+  }
+
+  .tabletthirdphoto {
+    display: none;
+  }
+  .tabletfourthphoto {
+    display: none;
+  }
+  .desktopthirdphoto {
+    display: none;
+  }
+  .desktopfourthphoto {
+    display: none;
+  }
+}
+/* hide mobile photos */
+@media only screen and (min-width: 768px) {
+  .mobileladywallphoto {
+    display: none;
+  }
+
+  .fourthphoto {
+    display: none;
+  }
+  .thirdphoto {
+    display: none;
+  }
+  .desktopfourthphoto {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .maincontainer {
+    height: auto;
+    width: 768px;
+
+    border-radius: 0px;
+  }
+
+  .firstpartboxwithladyphotoandourlocationbox {
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+  }
+  .tabletladywallphoto {
+    display: flex;
+    height: 700px;
+    width: 437px;
+    margin-left: -198px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .modernartgallerytext {
+    margin-top: -650px;
+    margin-left: 190px;
+  }
+  .theartsinthecollectiontext {
+    margin-top: -5px;
+    margin-left: 190px;
+  }
+  .ourlocationbox {
+    height: 72px;
+    width: 204px;
+
+    border-radius: 0px;
+
+    margin-top: -20px;
+
+    margin-left: 190px;
+  }
+  .ourlocationboxarrowbox {
+    height: 72px;
+    width: 56px;
+
+    border-radius: 0px;
+
+    margin-left: 394px;
+    margin-top: -150px;
+  }
+
+  /* first page second part your day  */
+  .secondpartcontainerwithyourday {
+    height: 1131px;
+    width: 689px;
+    margin-top: 120px;
+    border-radius: 0px;
+  }
+  .secondphoto {
+    height: 400px;
+    width: 398px;
+    margin-left: 290px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .yourdayatthegallery {
+    display: flex;
+    height: 135px;
+    width: 223px;
+    margin-left: 0px;
+    margin-top: -410px;
+    font-family: "Big Shoulders Display";
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .wanderthroughtext {
+    display: flex;
+    height: 140px;
+    width: 223px;
+    margin-left: 0px;
+    margin-top: 24px;
+    font-family: "Outfit";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+
+  .tabletthirdphoto {
+    height: 720px;
+    width: 398px;
+    margin-left: 0px;
+    margin-top: 110px;
+    border-radius: 0px;
+  }
+
+  .tabletfourthphoto {
+    display: flex;
+    width: 280px;
+    margin-left: 408px;
+    margin-top: -725px;
+    border-radius: 0px;
+  }
+
+  .secondpartlastcontainer {
+    display: flex;
+    flex-direction: column;
+    height: 396px;
+    width: 280px;
+    margin-left: 408px;
+    margin-top: 11px;
+    border-radius: 0px;
+  }
+  .secondpartcontainercomeandbeinspiredtext {
+    display: flex;
+    height: 90px;
+    width: 223px;
+    margin-top: 85px;
+    font-family: "Big Shoulders Display";
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .secondpartcontainerweareexcitedtext {
+    display: inline-block;
+    height: 112px;
+    width: 223px;
+    margin-top: -24px;
+    font-family: "Outfit";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .lastpartoffirstpage {
+    display: flex;
+    flex-direction: row;
+    height: 216px;
+    width: 768px;
+    margin-left: -1px;
+    margin-top: 120px;
+    border-radius: 0px;
+  }
+  .lastpartoffirstpagelasttext {
+    height: 104px;
+    width: 281px;
+  }
+}
+
+/* Page 2 tablet size  */ /* Page 2 tablet size  */ /* Page 2 tablet size  */ /* Page 2 tablet size  */
+
+@media only screen and (max-width: 768px) {
+  .tabletmap {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .map {
+    display: none;
+  }
+  .secondpagecontainer {
+    position: relative;
+    height: 1252px;
+    width: 768px;
+
+    border-radius: 0px;
+  }
+  .Desktopmapsecondpage {
+    display: none;
+  }
+
+  .tabletmap {
+    display: flex;
+    position: absolute;
+    height: 600px;
+    width: 768px;
+    left: 0px;
+    border-radius: 0px;
+  }
+  .maplocationindicator {
+    position: absolute;
+    height: 56px;
+    width: 66px;
+    margin-left: 351px;
+    margin-top: 256px;
+    border-radius: 0px;
+  }
+  .belowmapblackcontainer {
+    position: absolute;
+    height: 436px;
+    width: 768px;
+
+    margin-left: 0px;
+    margin-top: 600px;
+    border-radius: 0px;
+    background: rgba(21, 21, 21, 1);
+  }
+  .belowmapblackcontainerourlocationtext {
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    height: 32px;
+    width: 20px;
+    margin-left: 100px;
+    margin-top: 88px;
+    font-family: Big Shoulders Display;
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .belowmapblackcontainerkingsstreettext {
+    height: 32px;
+    width: 380px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    margin-left: 330px;
+    margin-top: -34px;
+  }
+
+  .belowmapblackcontainernewporttext {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+
+    display: inline-block;
+    width: 150px;
+    margin-left: 330px;
+    margin-top: 20px;
+  }
+
+  .belowmapblackcontainerlonglasttext {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+
+    display: inline-block;
+    width: 400px;
+    margin-left: 330px;
+    margin-top: 120px;
+  }
+
+  .secondpagelastpartoffirstpage {
+    position: absolute;
+    height: 216px;
+    width: 768px;
+    margin-left: 0px;
+    margin-top: 1036px;
+    border-radius: 0px;
+  }
+
+  .secondpagelastpartoffirstpageheadertext {
+    position: absolute;
+    margin-left: 39px;
+    margin-top: 56px;
+  }
+  .secondpagelastpartoffirstpagelasttext {
+    position: absolute;
+    margin-left: 214px;
+
+    margin-top: 50px;
+  }
+  .secondpagefacebook {
+    position: absolute;
+    margin-left: 628px;
+
+    margin-top: 56px;
+  }
+  .secondpageinstagram {
+    position: absolute;
+    margin-left: 668px;
+
+    margin-top: 56px;
+  }
+  .secondpagetwitter {
+    position: absolute;
+    margin-left: 708px;
+
+    margin-top: 56px;
+  }
+}
+
+/* desktop part first page of web */ /* desktop part first page of web */ /* desktop part first page of web */
+/* desktop part first page of web */
+/* desktop part first page of web */ /* desktop part first page of web */
+
+@media only screen and (min-width: 1439px) {
+  .mobileladywallphoto {
+    display: none;
+  }
+  .tabletladywallphoto {
+    display: none;
+  }
+  .tabletthirdphoto {
+    display: none;
+  }
+  .tabletfourthphoto {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1439px) {
+  .desktopoldladyphoto {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1439px) {
+  .maincontainer {
+    height: 2554px;
+    width: 1439px;
+
+    border-radius: 0px;
+  }
+
+  .onlyfordekstopsizeblackbox {
+    height: 800px;
+    width: 450px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    background: rgba(21, 21, 21, 1);
+  }
+  .firstpartboxwithladyphotoandourlocationbox {
+    display: flex;
+
+    height: 799px;
+    width: 450px;
+
+    margin-left: 647px;
+    margin-top: -700px;
+
+    border-radius: 0px;
+  }
+  .desktopoldladyphoto {
+    height: 800px;
+    width: 540px;
+
+    margin-left: -199px;
+    margin-top: -100px;
+    border-radius: 0px;
+  }
+  .modernartgallerytext {
+    display: inline-block;
+
+    height: 176px;
+    width: 514px;
+    margin-left: -500px;
+    margin-top: -750px;
+    font-family: "Big Shoulders Display";
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 0px;
+    text-align: right;
+
+    mix-blend-mode: difference;
+    color: white;
+    z-index: 3;
+    /* color: rgba(255, 255, 255, 1); */
+  }
+
+  .theartsinthecollectiontext {
+    display: flex;
+
+    height: 160px;
+    width: 350px;
+    margin-left: 275px;
+    margin-top: -360px;
+
+    font-family: "Outfit";
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(68, 68, 68, 1);
+  }
+
+  .ourlocationbox {
+    display: flex;
+
+    height: 72px;
+    width: 204px;
+    margin-left: 275px;
+    margin-top: -160px;
+    border-radius: 0px;
+  }
+  .ourlocationboxarrowbox {
+    display: flex;
+    margin-top: -312.111px;
+    margin-left: 470px;
+  }
+  .secondpartcontainerwithyourday {
+    height: 1150px;
+    width: 1110px;
+    margin-top: 180px;
+    border-radius: 0px;
+  }
+  .secondphoto {
+    height: 400px;
+    width: 635px;
+    margin-left: 640px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+
+  .yourdayatthegallery {
+    height: 120px;
+    width: 350px;
+
+    font-family: "Big Shoulders Display";
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .wanderthroughtext {
+    height: 128px;
+    width: 350px;
+
+    font-family: "Outfit";
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+
+  .secondphoto {
+    height: 400px;
+    width: 635px;
+    margin-left: 455px;
+    border-radius: 0px;
+  }
+  .desktopthirdphoto {
+    display: flex;
+    height: 720px;
+    width: 635px;
+    margin-left: 0px;
+    margin-top: 150px;
+    border-radius: 0px;
+
+    border-radius: 0px;
+  }
+  .desktopfourthphoto {
+    display: flex;
+    height: 313px;
+    width: 445px;
+    margin-left: 645px;
+    margin-top: -725px;
+    border-radius: 0px;
+  }
+  .secondpartlastcontainer {
+    height: 377px;
+    width: 445px;
+    margin-left: 645px;
+    margin-top: 30px;
+    border-radius: 0px;
+  }
+  .lastpartoffirstpage {
+    height: 244px;
+    width: 1440px;
+    margin-left: 0px;
+    margin-top: 80px;
+    border-radius: 0px;
+  }
+  .lastpartoffirstpageheadertext {
+    height: 58px;
+    width: 159.57235717773438px;
+    /* margin-left: 0px;
+    margin-top: 0px; */
+    border-radius: 0px;
+    margin-left: 165px;
+  }
+  .lastpartoffirstpagelasttext {
+    height: 84px;
+    width: 430px;
+    font-family: "Outfit";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: -50px;
+  }
+  .facebook {
+    margin-left: 150px;
+  }
+  .intagram {
+    margin-left: 0px;
+  }
+  .twitter {
+    margin-left: -10px;
+  }
+}
+/* desktop part second page  */
+
+@media only screen and (max-width: 768px) {
+  .Desktopmapsecondpage {
+    display: none;
+  }
+  .tabletmap {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1439px) {
+  .tabletmap {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1439px) {
+  .secondpagecontainer {
+    height: 1392px;
+    width: 1440px;
+
+    border-radius: 0px;
+  }
+  .Desktopmapsecondpage {
+    display: flex;
+    height: 685px;
+    width: 1440.9014892578125px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+  .backtohomearrowcontainer {
+    margin-left: 156px;
+    margin-top: -690px;
+    border-radius: 0px;
+  }
+  .backtohomeblackbox {
+    margin-left: 210px;
+    margin-top: -690px;
+  }
+  .maplocationindicator {
+    margin-left: 688px;
+    margin-top: -348px;
+    height: 56px;
+    width: 66px;
+
+    border-radius: 0px;
+  }
+  .belowmapblackcontainer {
+    height: 548px;
+    width: 1440px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+  }
+
+  .belowmapblackcontainerkingsstreettext {
+    margin-left: 735px;
+  }
+  .belowmapblackcontainernewporttext {
+    margin-left: 735px;
+  }
+  .belowmapblackcontainerlonglasttext {
+    margin-left: 735px;
+  }
+  .secondpagelastpartoffirstpage {
+    height: 244px;
+    width: 1440px;
+
+    margin-top: 547px;
+    border-radius: 0px;
+  }
+  .secondpagelastpartoffirstpageheadertext {
+    margin-left: 165px;
+  }
+  .secondpagelastpartoffirstpagelasttext {
+    margin-left: 465px;
+    height: 84px;
+    width: 430px;
+    font-family: "Outfit";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+  }
+  .secondpagefacebook {
+    margin-left: 1100px;
+  }
+  .secondpageinstagram {
+    margin-left: 1150px;
+  }
+  .secondpagetwitter {
+    margin-left: 1200px;
+  }
+}
